@@ -147,6 +147,23 @@ h4{
 	font-size: 18px;
 	margin-bottom: 45px;
 }
+
+.CCR {
+  text-align: center;
+  color: red;
+  padding-top: 200px;
+  font-family:'Courier New', Courier, monospace;
+  text-shadow: 1px 5px rgb(231, 87, 87);
+  font-weight: 400;
+}
+.CCR_fl {
+color: grey;
+text-shadow: 1px 5px rgb(89, 71, 71);
+font-family: serif;
+
+}
+
+
 button{
 	background-color:#f9004d;
 	color: white;
