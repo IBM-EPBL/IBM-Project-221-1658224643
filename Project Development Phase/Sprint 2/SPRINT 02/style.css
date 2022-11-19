@@ -105,6 +105,24 @@ h4{
 	right: 6px; 
 }
 
+
+.CCR {
+  text-align: center;
+  color: red;
+  padding-top: 200px;
+  font-family:'Courier New', Courier, monospace;
+  text-shadow: 1px 5px rgb(231, 87, 87);
+  font-weight: 400;
+}
+.CCR_fl {
+color: grey;
+text-shadow: 1px 5px rgb(89, 71, 71);
+font-family: serif;
+
+}
+
+
+
 .about{
 	width: 100%;
 	padding: 100px 0px;
