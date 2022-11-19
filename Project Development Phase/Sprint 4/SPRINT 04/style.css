@@ -63,6 +63,24 @@ nav ul li a:hover{
 	left:8%;
 	transform: translateY(-50%);
 }
+
+
+.CCR {
+  text-align: center;
+  color: red;
+  padding-top: 200px;
+  font-family:'Courier New', Courier, monospace;
+  text-shadow: 1px 5px rgb(231, 87, 87);
+  font-weight: 400;
+}
+.CCR_fl {
+color: grey;
+text-shadow: 1px 5px rgb(89, 71, 71);
+font-family: serif;
+
+}
+
+
 h1{
 	color: white;
 	margin: 20px 0px 20px;
